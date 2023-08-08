@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+     }
+
+body {
+
+background-image: linear-gradient(to right, #3F3CA6, #6F738F);
+ }
+
+ main{
+
+background-color: rgb(0, 194, 162);
+ width: 1000px;
+padding: 10px;
+box-shadow: 10px 10px 10px black; /* sombra: */ 
+margin: auto; 
+border-radius: 10px;
+}    
+ #idnum1{
+
+background-color: rgb(14, 238, 208); 
+height: 100px;
+padding: 5px;
+border-radius: 10px;
+ }
+
+ h1{
+
+color: rgb(255, 255, 255);
+ text-align: center; 
+ font-size: 50px;
+ }
+
+ h2{
+
+color:orange;
+}
+
+ p{
+
+text-align: justify;
+}
